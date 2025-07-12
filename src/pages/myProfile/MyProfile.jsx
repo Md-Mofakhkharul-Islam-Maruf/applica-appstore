@@ -39,7 +39,7 @@ const MyProfile = () => {
       Swal.fire({
         icon: 'success',
         title: 'Profile Updated',
-        text: 'Your profile information has been updated successfully.',
+        text: 'Your profile updated successfully. Refresh this page to view.',
         confirmButtonText: 'OK',
       });
     } catch (error) {
