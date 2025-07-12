@@ -67,7 +67,7 @@ const Navbar = () => {
 
   return (
     <div className='bg-base-100'>
-      <div className="navbar bg-base-100 shadow-sm max-w-7xl mx-auto">
+      <div className="navbar bg-base-100 max-w-7xl mx-auto">
         {/* Left (Logo + Mobile Menu) */}
         <div className="navbar-start">
           <div className="dropdown">
